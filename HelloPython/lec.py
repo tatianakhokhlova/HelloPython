@@ -47,5 +47,5 @@ x_a = float(input('Введите координату X точки А: '))
 y_a = float(input('Введите координату Y точки А: '))
 x_b = float(input('Введите координату X точки B: '))
 y_b = float(input('Введите координату Y точки B: '))
-print(round(((x_b-x_a)**2+(y_b-y_a)**2)**(1/2), 2))
+print(round(((x_b-x_a)**2+(y_b-y_a)**2)**(1/2), 3))
 
